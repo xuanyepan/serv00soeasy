@@ -3,6 +3,11 @@
 ## 简介
 这是一个基于 Tampermonkey 的用户脚本，用于自动填充网页注册表单。脚本会在页面加载完成后自动执行，无需手动操作。
 
+## 使用代理方法
+https://www.lumiproxy.com/zh-hans/online-proxy/proxysite/
+地址输入 https://www.serv00.com/offer/create_new_account
+代理选择USA
+
 ## 功能特点
 - 自动生成随机用户名
 - 自动生成随机英文姓名
