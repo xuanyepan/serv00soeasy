@@ -24,8 +24,10 @@ https://www.lumiproxy.com/zh-hans/online-proxy/proxysite/
 2. 点击 Tampermonkey 图标，选择"添加新脚本"
 
 3. 将脚本代码复制粘贴到编辑器中
+4. // 设置你要注册的邮箱地址
+    const EMAIL_ADDRESS = 'xxx@gmail.com';
 
-4. 按 Ctrl+S 保存脚本
+5. 按 Ctrl+S 保存脚本
 
 ## 配置说明
 你可以通过修改以下常量来自定义脚本行为：
