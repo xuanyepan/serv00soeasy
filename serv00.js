@@ -12,7 +12,7 @@
     'use strict';
 
     // 设置默认邮箱地址
-    const EMAIL_ADDRESS = 'xxx@gmail.com';
+    const EMAIL_ADDRESS = 'xuanyeah5460@outlook.com';
 
     // 生成随机字符串（5个字母）
     function generateRandomString() {
